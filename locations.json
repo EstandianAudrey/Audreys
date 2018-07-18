@@ -3,7 +3,7 @@
     "id": 145,
     "name": "THUNDERBIRD RESORT",
     "imageUrl": "https://i1.wp.com/outoftownblog.com/wp-content/uploads/2014/04/Sunset-in-Thunderbird-Resorts-La-Union.jpg?resize=500%2C332",
-    "price": 5000,
+    "price": 150,
     "priceCurrency": "PHP",
     "lat": 16.612239,
     "lng": 120.2825653
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "TANGADAN FALLS",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_geVh03bgoH98SNYxO4ei43KUqEst6LtSbzlkoYV4sVqrBoS",
+    "imageUrl": "https://1.bp.blogspot.com/-Gf8ZYFmjoT8/V0Gn4RVXjtI/AAAAAAAAOeU/qryYaqZTNMsPDYkjsysDwkM7qg-mgOnQQCLcB/s1600/DSC01220.jpg",
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 16.6166662,
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "SAN JUAN SURF RESORT",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/00/1d/06/san-juan-surf-resort.jpg",
-    "price": 150,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.6167424,
     "lng": 120.2624938
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "BAHAY NA BATO",
     "imageUrl": "https://i.ytimg.com/vi/F3u51uN3YzI/maxresdefault.jpg",
-    "price": 115,
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.6435777,
     "lng": 120.4466021
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "LIGHT HOUSE",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg",
-    "price": 135,
+    "price": 60,
     "priceCurrency": "PHP",
     "lat": 16.6570997,
     "lng": 120.3180062
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "PUGAD",
     "imageUrl": "https://c1.staticflickr.com/5/4042/5124634381_2c59787e26_b.jpg",
-    "price": 90,
+    "price": 200,
     "priceCurrency": "PHP",
     "lat":16.336675,
     "lng": 120.4766267
@@ -66,7 +66,7 @@
     "id": 213,
     "name": "BOTANICAL GARDEN",
     "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/botanical-garden.jpg",
-    "price": 90,
+    "price": 120,
     "priceCurrency": "PHP",
     "lat":16.5873334,
     "lng": 120.3637176
@@ -75,7 +75,7 @@
     "id": 213,
     "name": "BAUANG BEACH",
     "imageUrl": "https://ucarecdn.com/d78af50b-0b51-4813-84f8-ba822a333337/",
-    "price": 90,
+    "price": 40,
     "priceCurrency": "PHP",
     "lat":16.5638432,
     "lng": 120.3185109
@@ -84,7 +84,7 @@
     "id": 213,
     "name": "KULTURA",
     "imageUrl": "http://www.kulturasplashwave.com/wp-content/uploads/2018/07/slide.jpg",
-    "price": 90,
+    "price": 200,
     "priceCurrency": "PHP",
     "lat":116.3209448,
     "lng": 120.4685633
@@ -93,7 +93,7 @@
     "id": 213,
     "name": "TUDINGAN FALLS",
     "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
-    "price": 90,
+    "price": 60,
     "priceCurrency": "PHP",
     "lat":16.573002,
     "lng": 120.4132139
@@ -102,7 +102,7 @@
     "id": 213,
     "name": "GRAPES FARM",
     "imageUrl": "https://i1.wp.com/www.themisischronicles.com/wp-content/uploads/2016/06/grapes-picking-cover.jpg",
-    "price": 90,
+    "price": 70,
     "priceCurrency": "PHP",
     "lat":16.4610866,
     "lng": 120.3317155
