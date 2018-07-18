@@ -62,5 +62,14 @@
     "lat":16.336675,
     "lng": 120.4766267
   },
+  {
+    "id": 211,
+    "name": "BOTANICAL GARDEN",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/botanical-garden.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat":16.336675,
+    "lng": 120.4766267
+  },
   
 ]
