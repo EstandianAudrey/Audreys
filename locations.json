@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
+    "imageUrl": "https://i1.wp.com/outoftownblog.com/wp-content/uploads/2014/04/Sunset-in-Thunderbird-Resorts-La-Union.jpg?resize=500%2C332",
     "price": 164,
     "priceCurrency": "EUR",
     "lat": 16.612239,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_geVh03bgoH98SNYxO4ei43KUqEst6LtSbzlkoYV4sVqrBoS",
     "price": 200,
     "priceCurrency": "EUR",
     "lat": 16.6166662,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/00/1d/06/san-juan-surf-resort.jpg",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 16.6167424,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/F3u51uN3YzI/maxresdefault.jpg",
     "price": 115,
     "priceCurrency": "EUR",
     "lat": 16.6435777,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg",
     "price": 135,
     "priceCurrency": "EUR",
     "lat": 16.6570997,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "",
     "price": 90,
     "priceCurrency": "EUR",
     "lat":16.6212054,
