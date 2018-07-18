@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
+    "name": "SAN JUAN SURF RESORT",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/00/1d/06/san-juan-surf-resort.jpg",
     "price": 150,
     "priceCurrency": "PHP",
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "BAHAY NA BATO",
     "imageUrl": "https://i.ytimg.com/vi/F3u51uN3YzI/maxresdefault.jpg",
     "price": 115,
     "priceCurrency": "PHP",
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "LIGHT HOUSE",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg",
     "price": 135,
     "priceCurrency": "PHP",
@@ -46,7 +46,7 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "BAYWALK",
     "imageUrl": "http://tagudinseaside.com/pics/SanFernandoBayWalk2.jpg",
     "price": 90,
     "priceCurrency": "PHP",
