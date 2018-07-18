@@ -4,7 +4,7 @@
     "name": "THUNDERBIRD RESORT",
     "imageUrl": "https://i1.wp.com/outoftownblog.com/wp-content/uploads/2014/04/Sunset-in-Thunderbird-Resorts-La-Union.jpg?resize=500%2C332",
     "price": 5000,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PESO",
     "lat": 16.612239,
     "lng": 120.2825653
   },
@@ -13,7 +13,7 @@
     "name": "TANGADAN",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_geVh03bgoH98SNYxO4ei43KUqEst6LtSbzlkoYV4sVqrBoS",
     "price": 200,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PESO",
     "lat": 16.6166662,
     "lng":120.2745785
   },
@@ -22,7 +22,7 @@
     "name": "Super 60m2 in trendy neighborhood!",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/00/1d/06/san-juan-surf-resort.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PESO",
     "lat": 16.6167424,
     "lng": 120.2624938
   },
@@ -31,7 +31,7 @@
     "name": "Splendide terrasse vue imprenable",
     "imageUrl": "https://i.ytimg.com/vi/F3u51uN3YzI/maxresdefault.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PESO",
     "lat": 16.6435777,
     "lng": 120.4466021
   },
@@ -40,7 +40,7 @@
     "name": "Superbe vue à 2 min du Sacré Coeur",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PESO",
     "lat": 16.6570997,
     "lng": 120.3180062
   },
@@ -49,8 +49,18 @@
     "name": "Bohemian and Chic in Paris",
     "imageUrl": "http://tagudinseaside.com/pics/SanFernandoBayWalk2.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PESO",
     "lat":16.6212054,
     "lng": 120.3153105
-  }
+  },
+   {
+    "id": 211,
+    "name": "PUGAD",
+    "imageUrl": "https://c1.staticflickr.com/5/4042/5124634381_2c59787e26_b.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat":16.336675,
+    "lng": 120.4766267
+  },
+  
 ]
