@@ -68,8 +68,26 @@
     "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/botanical-garden.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat":16.336675,
-    "lng": 120.4766267
+    "lat":16.5873334,120.3637176,
+    "lng": 120.3637176
+  },
+   {
+    "id": 213,
+    "name": "BAUANG BEACH",
+    "imageUrl": "https://ucarecdn.com/d78af50b-0b51-4813-84f8-ba822a333337/",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat":16.5638432,
+    "lng": 120.3185109
+  },
+  {
+    "id": 213,
+    "name": "KULTURA",
+    "imageUrl": "http://www.kulturasplashwave.com/wp-content/uploads/2018/07/slide.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat":116.3209448,
+    "lng": 120.4685633
   }
   
 ]
