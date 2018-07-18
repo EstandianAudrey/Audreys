@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "TANGADAN",
+    "name": "TANGADAN FALLS",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_geVh03bgoH98SNYxO4ei43KUqEst6LtSbzlkoYV4sVqrBoS",
     "price": 200,
     "priceCurrency": "PHP",
@@ -88,6 +88,26 @@
     "priceCurrency": "PHP",
     "lat":116.3209448,
     "lng": 120.4685633
+  },
+    {
+    "id": 213,
+    "name": "TUDINGAN FALLS",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat":16.573002,
+    "lng": 120.4132139
+  },
+   {
+    "id": 213,
+    "name": "GRAPES FARM",
+    "imageUrl": "https://i1.wp.com/www.themisischronicles.com/wp-content/uploads/2016/06/grapes-picking-cover.jpg",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat":16.4610866,
+    "lng": 120.3317155
   }
+  
+  
   
 ]
