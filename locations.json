@@ -106,6 +106,15 @@
     "priceCurrency": "PHP",
     "lat":16.4610866,
     "lng": 120.3317155
+  },
+  {
+    "id": 213,
+    "name": "DAL-LIPOEN NAGUILIAN LA UNION",
+    "imageUrl": "",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat":16.5391334,
+    "lng": 120.3872939
   }
   
   
