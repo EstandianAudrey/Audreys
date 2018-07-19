@@ -32,8 +32,8 @@
     "imageUrl": "https://i.ytimg.com/vi/F3u51uN3YzI/maxresdefault.jpg",
     "price": 100,
     "priceCurrency": "PHP",
-    "lat": 16.6435777,
-    "lng": 120.4466021
+    "lat": 16.8472315,
+    "lng": 120.35170560000006
   },
   {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d0/1c/9f/20170708-093606-largejpg.jpg",
     "price": 60,
     "priceCurrency": "PHP",
-    "lat": 16.6570997,
-    "lng": 120.3180062
+    "lat": 16.6149039,
+    "lng": 120.28080669999997
   },
   {
     "id": 211,
@@ -50,8 +50,8 @@
     "imageUrl": "http://tagudinseaside.com/pics/SanFernandoBayWalk2.jpg",
     "price": 90,
     "priceCurrency": "PHP",
-    "lat":16.6212054,
-    "lng": 120.3153105
+    "lat":16.6190105,
+    "lng": 120.289221
   },
    {
     "id": 212,
@@ -60,7 +60,7 @@
     "price": 200,
     "priceCurrency": "PHP",
     "lat":16.336675,
-    "lng": 120.4766267
+    "lng": 120.47881540000003
   },
   {
     "id": 213,
