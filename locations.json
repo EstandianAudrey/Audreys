@@ -5,8 +5,8 @@
     "imageUrl": "https://i1.wp.com/outoftownblog.com/wp-content/uploads/2014/04/Sunset-in-Thunderbird-Resorts-La-Union.jpg?resize=500%2C332",
     "price": 150,
     "priceCurrency": "PHP",
-    "lat": 16.612239,
-    "lng": 120.2825653
+    "lat": 16.609068,
+    "lng": 120.28649599999994
   },
   {
     "id": 148,
@@ -14,8 +14,8 @@
     "imageUrl": "https://1.bp.blogspot.com/-Gf8ZYFmjoT8/V0Gn4RVXjtI/AAAAAAAAOeU/qryYaqZTNMsPDYkjsysDwkM7qg-mgOnQQCLcB/s1600/DSC01220.jpg",
     "price": 200,
     "priceCurrency": "PHP",
-    "lat": 16.6166662,
-    "lng":120.2745785
+    "lat": 16.64357769999999,
+    "lng":120.44879079999998
   },
   {
     "id": 201,
@@ -23,8 +23,8 @@
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/00/1d/06/san-juan-surf-resort.jpg",
     "price": 50,
     "priceCurrency": "PHP",
-    "lat": 16.6167424,
-    "lng": 120.2624938
+    "lat": 16.6570997,
+    "lng": 120.32019489999993
   },
   {
     "id": 205,
