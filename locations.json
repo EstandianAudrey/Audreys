@@ -64,21 +64,21 @@
   },
   {
     "id": 213,
-    "name": "BOTANICAL GARDEN",
-    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/10/botanical-garden.jpg",
+    "name": "ENCHANTED KINGDOM",
+    "imageUrl": "https://i.ytimg.com/vi/ydbWZ5vODJ0/maxresdefault.jpg",
     "price": 120,
     "priceCurrency": "PHP",
-    "lat":16.5873334,
-    "lng": 120.3637176
+    "lat":14.2822121,
+    "lng": 121.09671249999997
   },
    {
     "id": 213,
-    "name": "BAUANG BEACH",
-    "imageUrl": "https://ucarecdn.com/d78af50b-0b51-4813-84f8-ba822a333337/",
+    "name": "BANAUE RICE TERRACES",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2012/06/Banaue-Rice-Terraces.jpg",
     "price": 40,
     "priceCurrency": "PHP",
-    "lat":16.5638432,
-    "lng": 120.3185109
+    "lat":16.9239537,
+    "lng": 121.0556401
   },
   {
     "id": 213,
