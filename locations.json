@@ -10,21 +10,21 @@
   },
   {
     "id": 148,
-    "name": "TANGADAN FALLS",
-    "imageUrl": "https://1.bp.blogspot.com/-Gf8ZYFmjoT8/V0Gn4RVXjtI/AAAAAAAAOeU/qryYaqZTNMsPDYkjsysDwkM7qg-mgOnQQCLcB/s1600/DSC01220.jpg",
+    "name": "SIARGAO",
+    "imageUrl": "https://i0.wp.com/mywanderstory.com/wp-content/uploads/2017/05/Siargao-Travel-Guide.png?fit=665%2C443&ssl=1",
     "price": 200,
     "priceCurrency": "PHP",
-    "lat": 16.64357769999999,
-    "lng":120.44879079999998
+    "lat":9.8481883 ,
+    "lng":126.04584369999998
   },
   {
     "id": 201,
-    "name": "SAN JUAN SURF RESORT",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/00/1d/06/san-juan-surf-resort.jpg",
+    "name": "RIZAL PARK",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/09/c0/92/c3/rizal-park.jpg",https://media-cdn.tripadvisor.com/media/photo-s/09/c0/92/c3/rizal-park.jpg
     "price": 50,
     "priceCurrency": "PHP",
-    "lat": 16.6570997,
-    "lng": 120.32019489999993
+    "lat": 14.5831177,
+    "lng": 120.97941709999998
   },
   {
     "id": 205,
