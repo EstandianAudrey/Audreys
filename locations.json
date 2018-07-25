@@ -92,7 +92,7 @@
     {
     "id": 213,
     "name": "PAOAY CHURCH",
-    "imageUrl": "http://triptheislands.com/wp-content/uploads/2014/06/san_agustin-church_paoay_ilocos_norte_2-1335602884.jpg"
+    "imageUrl": "http://triptheislands.com/wp-content/uploads/2014/06/san_agustin-church_paoay_ilocos_norte_2-1335602884.jpg",
     "price": 60,
     "priceCurrency": "PHP",
     "lat":18.0615549,
@@ -100,12 +100,12 @@
   },
    {
     "id": 213,
-    "name": "GRAPES FARM",
-    "imageUrl": "https://i1.wp.com/www.themisischronicles.com/wp-content/uploads/2016/06/grapes-picking-cover.jpg",
+    "name": "MACTAN RESORT",
+    "imageUrl": "http://www.shangri-la.com/uploadedImages/Shangri-La_Resorts/Shangri-La%E2%80%99s_Mactan_and_Spa,_Cebu,_Philippines/MAC-Bg-Outdoor-Swimming-Pool.jpg",
     "price": 70,
     "priceCurrency": "PHP",
-    "lat":16.4610866,
-    "lng": 120.3317155
+    "lat":10.3079,
+    "lng":124.0195 
   },
   {
     "id": 213,
