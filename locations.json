@@ -3,8 +3,8 @@
     "id": 145,
     "name": "BORACAY",
     "imageUrl": "https://i.ytimg.com/vi/sFGh4zBUKRw/maxresdefault.jpg",
-    "price": 150,
-    "priceCurrency": "PHP",
+    "distance": 535,
+    "ditanceCurrency": "km",
     "lat": 11.9673753,
     "lng": 121.92481499999997
   },
