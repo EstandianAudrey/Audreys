@@ -28,12 +28,12 @@
   },
   {
     "id": 205,
-    "name": "BAHAY NA BATO",
-    "imageUrl": "https://i.ytimg.com/vi/F3u51uN3YzI/maxresdefault.jpg",
+    "name": "HUNDRED ISLAND",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/70885.jpg",
     "price": 100,
     "priceCurrency": "PHP",
-    "lat": 16.8472315,
-    "lng": 120.35170560000006
+    "lat": 16.2040011,
+    "lng":120.04086870000003 
   },
   {
     "id": 210,
