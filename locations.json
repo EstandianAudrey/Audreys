@@ -82,21 +82,21 @@
   },
   {
     "id": 213,
-    "name": "KULTURA",
-    "imageUrl": "http://www.kulturasplashwave.com/wp-content/uploads/2018/07/slide.jpg",
+    "name": "OCEAN PARK",
+    "imageUrl": "https://media.karousell.com/media/photos/products/2017/03/13/manila_ocean_park_ticket_1489378447_e1c4296e.jpg",
     "price": 200,
     "priceCurrency": "PHP",
-    "lat":116.3209448,
-    "lng": 120.4685633
+    "lat":14.579156,
+    "lng":120.97254980000002
   },
     {
     "id": 213,
-    "name": "TUDINGAN FALLS",
-    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
+    "name": "PAOAY CHURCH",
+    "imageUrl": "http://triptheislands.com/wp-content/uploads/2014/06/san_agustin-church_paoay_ilocos_norte_2-1335602884.jpg",http://triptheislands.com/wp-content/uploads/2014/06/san_agustin-church_paoay_ilocos_norte_2-1335602884.jpg
     "price": 60,
     "priceCurrency": "PHP",
-    "lat":16.573002,
-    "lng": 120.4132139
+    "lat":18.0615549,
+    "lng":120.52152960000001
   },
    {
     "id": 213,
