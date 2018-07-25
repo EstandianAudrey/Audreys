@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "THUNDERBIRD RESORT",
-    "imageUrl": "https://i1.wp.com/outoftownblog.com/wp-content/uploads/2014/04/Sunset-in-Thunderbird-Resorts-La-Union.jpg?resize=500%2C332",
+    "name": "BORACAY",
+    "imageUrl": "https://i.ytimg.com/vi/sFGh4zBUKRw/maxresdefault.jpg",
     "price": 150,
     "priceCurrency": "PHP",
-    "lat": 16.609068,
-    "lng": 120.28649599999994
+    "lat": 11.9673753,
+    "lng": 121.92481499999997
   },
   {
     "id": 148,
