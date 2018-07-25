@@ -109,6 +109,24 @@
   },
   {
     "id": 213,
+    "name": "National Museum of the Philippines",
+    "imageUrl": "http://museu.ms/remote.jpg.ashx?width=1000&height=450&format=jpg&mode=crop&scale=both&404=no_image.gif&urlb64=aHR0cHM6Ly9tdXNldW1zLmJsb2IuY29yZS53aW5kb3dzLm5ldC9kYXRhL0RvY3VtZW50cy9NVVNFVU1TL3BobWFuYW11b2Z0aHBoLzM4OTYzNi9lZWQwNWI4NDIxMmU0ODQ3YTYxOGYxZTc4NWY1Yzg4MS5qcGc&hmac=kepd19FUZX4",
+    "price": 60,
+    "priceCurrency": "PHP",
+    "lat":14.5869371,
+    "lng":120.9812475
+  },
+   {
+    "id": 213,
+    "name": "TAAL LAKE",
+    "imageUrl": "http://www.taalvolcano.org/wp-content/uploads/2017/09/Slideshow1-home-e1514293627403.jpg",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat":13.9750341,
+    "lng": 121.02204219999999
+  },
+  {
+    "id": 213,
     "name": "DAL-LIPOEN NAGUILIAN LA UNION",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/FvfLaUnion9945_33.JPG/300px-FvfLaUnion9945_33.JPG",
     "price": 70,
